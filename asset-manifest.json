@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ProyectoCMDZ/static/css/main.6765fd30.css",
+    "main.js": "/ProyectoCMDZ/static/js/main.2a78f079.js",
+    "static/js/787.8449201f.chunk.js": "/ProyectoCMDZ/static/js/787.8449201f.chunk.js",
+    "static/media/img2.png": "/ProyectoCMDZ/static/media/img2.aec679273884be1c1b05.png",
+    "static/media/img1.jpg": "/ProyectoCMDZ/static/media/img1.74d1a08f000b21e1673c.jpg",
+    "static/media/unif3.png": "/ProyectoCMDZ/static/media/unif3.03b6adc8a2050c7a4315.png",
+    "static/media/unif2.png": "/ProyectoCMDZ/static/media/unif2.994f5c97b0534a4d7751.png",
+    "static/media/unif1.png": "/ProyectoCMDZ/static/media/unif1.d4610ced7be9beeeb70c.png",
+    "static/media/colegio.png": "/ProyectoCMDZ/static/media/colegio.e6edd9e35d3e7c56b943.png",
+    "index.html": "/ProyectoCMDZ/index.html",
+    "main.6765fd30.css.map": "/ProyectoCMDZ/static/css/main.6765fd30.css.map",
+    "main.2a78f079.js.map": "/ProyectoCMDZ/static/js/main.2a78f079.js.map",
+    "787.8449201f.chunk.js.map": "/ProyectoCMDZ/static/js/787.8449201f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6765fd30.css",
+    "static/js/main.2a78f079.js"
+  ]
+}
